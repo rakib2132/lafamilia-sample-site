@@ -1,0 +1,35 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# OS / System files
+.DS_Store
+Thumbs.db
+
+# Shell / history files (VERY IMPORTANT)
+.bash_history
+.zsh_history
+.ps_history
+
+# Editors
+.vscode/
+.idea/
+
+# Vercel
+.vercel/
+
+# Logs
+logs/
+*.log
