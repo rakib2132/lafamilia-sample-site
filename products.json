@@ -1,13 +1,13 @@
 [
   {
-    "name": "Elf Bar BC5000",
+    "name": "Fume 1500 Puffs",
     "category": "Disposable Vape",
-    "brand": "Elf Bar",
+    "brand": "Fume",
     "price": 19.99,
     "description": "Rechargeable disposable vape with multiple fruity and ice flavors.",
     "inStock": true,
-    "image": "images/elfbar-bc5000-blue-razz-ice.png",
-    "dealText": "2 for $35 · Mix & match Elf Bar flavors",
+    "image": "images/fume_1500_puffs.png",
+    "dealText": "2 for $35 · Mix & match Fume flavors",
     "flavors": [
       "Blue Razz Ice",
       "Strawberry Kiwi",
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "name": "Lost Mary OS5000",
+    "name": "Blue Razz Ice 5k Puffs",
     "category": "Disposable Vape",
     "brand": "Lost Mary",
     "price": 21.99,
@@ -40,7 +40,7 @@
     "price": 17.99,
     "description": "Classic HQD disposable with smooth fruit and ice blends.",
     "inStock": true,
-    "image": "images/elfbar-bc5000-blue-razz-ice.png",
+    "image": "images/sample_product_picture.png",
     "dealText": "Any 2 HQD for $32",
     "flavors": [
       "Mango Ice",
@@ -57,7 +57,7 @@
     "price": 14.99,
     "description": "Medium-bodied toro cigar with rich aroma and a smooth finish.",
     "inStock": true,
-    "image": "images/elfbar-bc5000-blue-razz-ice.png"
+    "image": "images/sample_product_picture.png"
   },
   {
     "name": "Hookah Flavor",
@@ -66,7 +66,7 @@
     "price": 9.99,
     "description": "Traditional hookah tobacco with classic and fruity flavors.",
     "inStock": true,
-    "image": "images/elfbar-bc5000-blue-razz-ice.png",
+    "image": "images/sample_product_picture.png",
     "dealText": "Hookah flavors: Buy 3, get 1 free",
     "flavors": [
       "Double Apple",
@@ -83,7 +83,7 @@
     "price": 11.99,
     "description": "Premium hookah tobacco with refreshing mint mixes.",
     "inStock": true,
-    "image": "images/elfbar-bc5000-blue-razz-ice.png",
+    "image": "images/sample_product_picture.png",
     "flavors": [
       "Mint",
       "Blueberry Mint",
@@ -99,7 +99,7 @@
     "price": 49.99,
     "description": "Durable 12-inch glass water pipe with percolator for smoother hits.",
     "inStock": true,
-    "image": "images/elfbar-bc5000-blue-razz-ice.png",
+    "image": "images/sample_product_picture.png",
     "dealText": "Selected glass pieces 10% off"
   },
   {
@@ -109,7 +109,7 @@
     "price": 19.99,
     "description": "Compact glass hand pipe with colorful design.",
     "inStock": true,
-    "image": "images/elfbar-bc5000-blue-razz-ice.png"
+    "image": "images/sample_product_picture.png"
   },
   {
     "name": "Rolling Papers - King Size",
@@ -118,7 +118,7 @@
     "price": 3.99,
     "description": "Unbleached king size rolling papers for a clean, even burn.",
     "inStock": true,
-    "image": "images/elfbar-bc5000-blue-razz-ice.png"
+    "image": "images/sample_product_picture.png"
   },
   {
     "name": "Butane Torch Lighter",
@@ -127,6 +127,6 @@
     "price": 12.99,
     "description": "Refillable butane torch lighter, ideal for cigars and glass pieces.",
     "inStock": true,
-    "image": "images/elfbar-bc5000-blue-razz-ice.png"
+    "image": "images/sample_product_picture.png"
   }
 ]
