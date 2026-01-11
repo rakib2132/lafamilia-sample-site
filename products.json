@@ -40,7 +40,7 @@
     "price": 14.99,
     "description": "Compact disposable with intense flavor and long-lasting battery.",
     "inStock": true,
-    "image": "images/elfbar-bc5000-blue-razz-ice.png",
+    "image": "images/sample_product_picture.png",
     "dealText": "2 for $38 · Mix & match Lost Mary",
     "flavors": [
       "Watermelon",
@@ -71,7 +71,7 @@
     ]
   },
   {
-    "name": "Premium Hand-Rolled Cigar - Toro",
+    "name": "Product Coming Soon",
     "category": "Cigar",
     "brand": "La Familia Select",
     "price": 14.99,
@@ -80,7 +80,7 @@
     "image": "images/sample_product_picture.png"
   },
   {
-    "name": "Hookah Flavor",
+    "name": "Product Coming Soon",
     "category": "Hookah",
     "brand": "Al Fakher",
     "price": 9.99,
@@ -97,7 +97,7 @@
     ]
   },
   {
-    "name": "Hookah Flavor Premium",
+    "name": "Product Coming Soon",
     "category": "Hookah",
     "brand": "Starbuzz",
     "price": 11.99,
@@ -113,7 +113,7 @@
     ]
   },
   {
-    "name": "Glass Water Pipe 12\"",
+    "name": "Product Coming Soon",
     "category": "Glass",
     "brand": "La Familia Glass",
     "price": 49.99,
@@ -123,7 +123,7 @@
     "dealText": "Selected glass pieces 10% off"
   },
   {
-    "name": "Glass Hand Pipe",
+    "name": "Product Coming Soon",
     "category": "Glass",
     "brand": "La Familia Glass",
     "price": 19.99,
@@ -132,7 +132,7 @@
     "image": "images/sample_product_picture.png"
   },
   {
-    "name": "Rolling Papers - King Size",
+    "name": "Product Coming Soon",
     "category": "Accessory",
     "brand": "RAW",
     "price": 3.99,
@@ -141,7 +141,7 @@
     "image": "images/sample_product_picture.png"
   },
   {
-    "name": "Butane Torch Lighter",
+    "name": "Product Coming Soon",
     "category": "Accessory",
     "brand": "La Familia",
     "price": 12.99,
