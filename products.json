@@ -3,11 +3,11 @@
     "name": "Fume 1500 Puffs",
     "category": "Disposable Vape",
     "brand": "Fume",
-    "price": 19.99,
+    "price": 9.99,
     "description": "Rechargeable disposable vape with multiple fruity and ice flavors.",
     "inStock": true,
     "image": "images/fume_1500_puffs.png",
-    "dealText": "2 for $35 · Mix & match Fume flavors",
+    "dealText": "2 for $17.99 · Mix & match Fume flavors",
     "flavors": [
       "Blue Razz Ice",
       "Strawberry Kiwi",
@@ -19,7 +19,7 @@
   {
     "name": "Blue Razz Ice 5k Puffs",
     "category": "Disposable Vape",
-    "brand": "Lost Mary",
+    "brand": "Razz",
     "price": 21.99,
     "description": "Compact disposable with intense flavor and long-lasting battery.",
     "inStock": true,
@@ -34,7 +34,24 @@
     ]
   },
   {
-    "name": "HQD Cuvie Plus",
+    "name": "Off-Stamp 9k & 16k Puffs",
+    "category": "Disposable Vape",
+    "brand": "Off-Stamp",
+    "price": 14.99,
+    "description": "Compact disposable with intense flavor and long-lasting battery.",
+    "inStock": true,
+    "image": "images/elfbar-bc5000-blue-razz-ice.png",
+    "dealText": "2 for $38 · Mix & match Lost Mary",
+    "flavors": [
+      "Watermelon",
+      "Blue Razz Ice",
+      "Strawberry Ice",
+      "Grape",
+      "Pineapple Coconut"
+    ]
+  },
+  {
+    "name": "HQD Duel Mesh Coil 15k Puffs",
     "category": "Disposable Vape",
     "brand": "HQD",
     "price": 17.99,
@@ -43,11 +60,14 @@
     "image": "images/sample_product_picture.png",
     "dealText": "Any 2 HQD for $32",
     "flavors": [
-      "Mango Ice",
-      "Lush Ice",
+      "Sky Mint",
+      "Ice Mint",
+      "Strawberry Watermelon",
       "Strawberry Banana",
-      "Blueberry Raspberry",
-      "Pineapple Ice"
+      "Triple Berry",
+      "Blue Razz",
+      "Tobacco",
+      "Menthol"
     ]
   },
   {
